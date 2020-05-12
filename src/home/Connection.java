@@ -32,7 +32,7 @@ public class Connection {
 
 	// Constructors
     public Connection() {
-        this.hostname = "45.49.254.49";
+        this.hostname = "ADD HERE THE IP ADDRESS OF YOUR SQL SERVER";
     //  this.hostname = "localsjava.ddns.net";
         this.port = "3306";
         this.username = "root";
